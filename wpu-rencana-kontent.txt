@@ -2,4 +2,5 @@ rencana kontent wpu
 
 - rest API
 - PHPlaravel
+- Tsruktur data dasar
 = Vlog
