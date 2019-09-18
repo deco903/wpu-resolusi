@@ -2,5 +2,7 @@ rencana kontent wpu
 
 - rest API
 - PHPlaravel
+- PHPfalcone
+- reactJS
 - Tsruktur data dasar
 = Vlog
