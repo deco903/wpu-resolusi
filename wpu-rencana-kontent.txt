@@ -1,6 +1,8 @@
 rencana kontent wpu
-
+- NodeJS
 - rest API
 - PHPlaravel
+- PHPFalcone
 - Tsruktur data dasar
 = Vlog
+- Python
